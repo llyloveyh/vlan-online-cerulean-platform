@@ -1,0 +1,7 @@
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Debug\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Debug\AI.pdb
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Debug\Ocean Scream SDK.dll
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Debug\Ocean Scream SDK.pdb
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Debug\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Debug\AI.pdb

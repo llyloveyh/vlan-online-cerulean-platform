@@ -1,0 +1,14 @@
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Release\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Release\AI.pdb
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Release\ResolveAssemblyReference.cache
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Release\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\obj\x86\Release\AI.pdb
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Release\MSTCOSSDK.dll
+F:\XNA\编程PK赛\SDK\C#\AI Demo\AI\bin\Release\MSTCOSSDK.pdb
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\obj\x86\Release\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\obj\x86\Release\AI.pdb
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\AI.exe
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\AI.pdb
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\MSTCOSSDK.dll
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\MSTCOSSDK.pdb
+F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\obj\x86\Release\ResolveAssemblyReference.cache
