@@ -1,0 +1,14 @@
+简要说明：
+
+
+1、运行平台之前请先安装“运行游戏前需要安装的软件包”文件夹里的两个安装包，一个是XNA的运行环境，另一个是.NET Framework 4.0。
+2、要运行游戏平台，请打开“Ocean Scream游戏平台\游戏主程序组件”里面的MSTCOS.MainGame.exe。选择playerVSAI模式，或者AIVSAI模式后，游戏会提示当前的已经连接到主程序的AI数目，然后您可以打开“Ocean Scream游戏平台\AIdemo”文件夹中，我们提供的AI实例来进行游戏。
+以C#为例：打开“Ocean Scream游戏平台\AIdemo\C#1\AI\bin\Release”中的AI.exe，即可。
+
+注意：一定要注意运行程序的顺序，即先打开MSTCOS.MainGame.exe，然后选择运行模式，然后运行AI.exe。
+要想观看比赛录像，请把“Ocean Scream游戏平台\游戏主程序组件\rep”文件夹中的文件重命名为replay.grep，然后在主界面上，打开GAME VIDEO模式即可。
+AIVSAI请运行两个AI.exe，playerVSAI模式请运行一个AI.exe,然后玩家控制另一方。
+运行自己编写的AI，请先将自己的代码生成release版本的AI.exe，然后在按顺序运行。
+
+具体说明，请阅读我们发布的游戏文档，如果还有不清楚的地方或者遇到什么问题，请给我们发邮件，或者和QQ群的管理员联系。如有不当之处还请您多多包涵，谢谢！
+                                                       ——Ocean Scream开发组
