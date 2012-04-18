@@ -12,3 +12,5 @@ F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\AI.pdb
 F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\MSTCOSSDK.dll
 F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\bin\Release\MSTCOSSDK.pdb
 F:\XNA\编程PK赛\SDK\C#\AIDemo\AI\obj\x86\Release\ResolveAssemblyReference.cache
+E:\SVNProject\vlan-online-cerulean-platform\branches\OceanScream\2012编程之美demo+SDK+说明文档+环境全安装包\发布的游戏平台4-15\Ocean Scream游戏平台\AIdemo\C#1\AI\obj\x86\Release\AI.exe
+E:\SVNProject\vlan-online-cerulean-platform\branches\OceanScream\2012编程之美demo+SDK+说明文档+环境全安装包\发布的游戏平台4-15\Ocean Scream游戏平台\AIdemo\C#1\AI\obj\x86\Release\AI.pdb
